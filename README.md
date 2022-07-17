@@ -1,4 +1,4 @@
-**ATIVIDADE-CAMPINHO-1**
+**ATIVIDADE CAMPINHO 1**
 # Atividades solicitadas pelo Campinho
 # Edvaldo Lopes do Nascimento
 1. Prato favorito 
